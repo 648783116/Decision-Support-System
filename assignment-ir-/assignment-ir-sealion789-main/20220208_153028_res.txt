@@ -1,0 +1,8 @@
+Q2 INDEX SCHEMA [Q2 index has correct schema [0.5pt]]: True {None}
+Q2 INDEXED DOCUMENTS [Q2 index includes indexed documents [0.5pt]]: True {None}
+Q2 QUERYPARSER SCHEMA [Q2 QP has correct schema [0.5pt]]: True {None}
+Q2 VALID COMPONENTS [Index, Queryparser, and Searcher are valid [0.5pt]]: True {None}
+Q3 IMPROVEMENTS [Q3 Index includes improvements]: False {'NoneType' object has no attribute 'index_sys'}
+Q3 VALID COMPONENTS [Index, Queryparser, and Searcher are valid [0.5pt]]: False {'NoneType' object has no attribute 'index_sys'}
+Q4 IMPROVEMENTS [Q4 includes scoring improvements [0.5pt]]: False {'NoneType' object has no attribute 'searcher'}
+Q4 VALID COMPONENTS [Index, Queryparser, and Searcher are valid [0.5pt]]: False {'NoneType' object has no attribute 'index_sys'}
